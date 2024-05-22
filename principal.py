@@ -1,6 +1,6 @@
 #%pip install nltk -U
 #%pip install spacy -U
-#%pip install gensim
+%pip install gensim
 #%pip install pyldavis
 #%pip install gutenbergpy
 
